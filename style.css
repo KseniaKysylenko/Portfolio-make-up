@@ -93,11 +93,5 @@ footer {
 @media (max-width: 1200px) {
   .main-block #portfolio .photo-work img {
     height: 300px; } }
-@media (max-width: 600px) {
-  #nonparallax {
-    display: block; }
-
-  #parallax {
-    display: none; } }
 
 /*# sourceMappingURL=style.css.map */
